@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sopal\\source\\repos\\sounavapal\\Test\\DIDemo\\DIDemo\\DIDemo.csproj": {}
+    "C:\\Users\\sopal\\Source\\Repos\\sounavapal\\Test\\DIDemo\\DIDemo\\DIDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sopal\\source\\repos\\sounavapal\\Test\\DIDemo\\DIDemo\\DIDemo.csproj": {
+    "C:\\Users\\sopal\\Source\\Repos\\sounavapal\\Test\\DIDemo\\DIDemo\\DIDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sopal\\source\\repos\\sounavapal\\Test\\DIDemo\\DIDemo\\DIDemo.csproj",
+        "projectUniqueName": "C:\\Users\\sopal\\Source\\Repos\\sounavapal\\Test\\DIDemo\\DIDemo\\DIDemo.csproj",
         "projectName": "DIDemo",
-        "projectPath": "C:\\Users\\sopal\\source\\repos\\sounavapal\\Test\\DIDemo\\DIDemo\\DIDemo.csproj",
+        "projectPath": "C:\\Users\\sopal\\Source\\Repos\\sounavapal\\Test\\DIDemo\\DIDemo\\DIDemo.csproj",
         "packagesPath": "C:\\Users\\sopal\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sopal\\Source\\Repos\\sounavapal\\Test\\DIDemo\\DIDemo\\obj\\",
         "projectStyle": "PackageReference",
